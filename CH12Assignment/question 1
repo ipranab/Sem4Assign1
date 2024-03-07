@@ -1,0 +1,2 @@
+write a java code that compares with a car class and a car tester class the car class should define priavte field make and model,along with the parametirsed constructor and getter setter method.In the car tester class,instantiate to instances of the car class my car1 with a specified model and my car2 with null values after instantiation the cartester class should retrieve and print the initial model and make of both cars, then it should set new values for mycar2 using setter method and print the updated model
+
