@@ -1,0 +1,2 @@
+Write a java program to demonstrate the usage of copy constructor, generics, Collections, method over-riding
+Use case:- A Person joins a company as an intern and after 6months of service becomes permanent employee and salary doubles. The company has no limit on number of interns to hire. Help the HR in entering the employee's details, update the records as and when required and display the details of the employees.
